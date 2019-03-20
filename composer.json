@@ -14,7 +14,7 @@
     "require": {
         "php": ">=7.1",
         "ext-gd": "*",
-        "arcadesso/BaconQrCode": "^2.0",
+        "arcadesso/BaconQrCode": "^1.1",
         "endroid/installer": "^1.0.3",
         "khanamiryan/qrcode-detector-decoder": "^1.0.2",
         "myclabs/php-enum": "^1.5",
